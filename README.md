@@ -40,10 +40,7 @@ Currently under development as part of a Python programming assignment.
 
 Contributors:
 
-Fatika Shabir
+Fatika Shabir  
 Sumaiya Kashif
-
-
-
 - [Your Name]
 - [Your Partner's Name]
