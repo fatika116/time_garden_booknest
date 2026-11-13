@@ -42,5 +42,3 @@ Contributors:
 
 Fatika Shabir  
 Sumaiya Kashif
-- [Your Name]
-- [Your Partner's Name]
